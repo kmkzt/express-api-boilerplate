@@ -11,7 +11,7 @@ services:
   #     MYSQL_PASSWORD: pass
   #     MYSQL_DATABASE: database
   db:
-    image: postgres:9.6-alpine # docs https://hub.docker.com/_/postgres
+    image: postgres:13.3-alpine # docs https://hub.docker.com/_/postgres
     ports:
       - 5555:5432
     volumes:
