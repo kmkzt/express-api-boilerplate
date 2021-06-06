@@ -45,7 +45,7 @@
     "@graphql-codegen/typescript": "1.0.7",
     "@graphql-codegen/typescript-graphql-files-modules": "1.0.7",
     "@graphql-codegen/typescript-operations": "1.0.7",
-    "@graphql-codegen/typescript-react-apollo": "1.0.7",
+    "@graphql-codegen/typescript-react-apollo": "2.2.5",
     "@graphql-codegen/typescript-resolvers": "1.0.7",
     "@types/ajv": "1.0.0",
     "@types/body-parser": "1.17.0",
